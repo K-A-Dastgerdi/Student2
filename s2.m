@@ -1,3 +1,3 @@
 function time=s2(Ts,Tf)
-time=0:Ts:Tf;
+time=-pi:Ts:Tf;
 end
